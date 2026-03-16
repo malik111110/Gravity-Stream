@@ -92,4 +92,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-*Built with 🦀 by the AI Engineering community.*
+*Built with 🦀 by the Abdelmalek Ghertil.*
